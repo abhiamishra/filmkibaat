@@ -1,6 +1,6 @@
 ---
 title: 'Hello'
-status: 'draft'
+status: 'published'
 author:
   name: 'Abhishek A. Mishra'
   picture: 'https://avatars.githubusercontent.com/u/52009380?v=4'
